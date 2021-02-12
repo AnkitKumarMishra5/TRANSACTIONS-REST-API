@@ -1,7 +1,8 @@
 # TRANSACTIONS-REST-API
 REST API for management of transactions between accounts of accountHolders (Customers/Users)
 
-<br />
+### API_ENDPOINT_PREFIX: https://transaction-rest-api.herokuapp.com
+
 <br />
 
 ## USERS/CUSTOMERS APIs:
